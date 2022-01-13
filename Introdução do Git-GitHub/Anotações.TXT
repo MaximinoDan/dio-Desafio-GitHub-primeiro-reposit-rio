@@ -1,0 +1,1 @@
+o Git bash deve ser aberto dentro da pasta pretendida, botão direito e git bash here.
